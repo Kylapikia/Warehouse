@@ -1,0 +1,169 @@
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojResolveAssemblyReference.cache
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.RetailShop.resources
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.Cache
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\2015014005\source\repos\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.RetailShop.resources
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.RetailShop.resources
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\database\Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.RetailShop.resources
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\database\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\2.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\3.0 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\3.1 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.Cache
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\3.2 Assignment3UI\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\Users\algo\Desktop\4 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\itextsharp.dll
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\itextsharp.xml
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CopyComplete
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\itextsharp.xml
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojResolveAssemblyReference.cache
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.Cache
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+C:\ROSE\BIT2018\Semester 2\IT703 Database Design and Implementation\Assignment 3\6 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.AddUser.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csprojAssemblyReference.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.AddUser.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Investor.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Login.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.MainForm.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Properties.Resources.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.Report.resources
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.GenerateResource.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CoreCompileInputs.cache
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.exe
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe.config
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.exe
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\Assignment3UI.pdb
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\itextsharp.dll
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\bin\Debug\itextsharp.xml
+\\sit.inet\sit\home\Students\2014002528\MySettings\Desktop\7 SCM\5 SCM\5 SCM\3.2 Assignment3UI\Assignment3UI\obj\Debug\Assignment3UI.csproj.CopyComplete
